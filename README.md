@@ -20,8 +20,3 @@ My game is a retro-style coin collecting game in which the player controls a rob
 ## Screenshot
 
 ![](./screenshot.png)
-
-## Links
-
-- Repository URL: https://github.com/jengori/rich-robot
-- Live Site URL: https://jengori.github.io/rich-robot

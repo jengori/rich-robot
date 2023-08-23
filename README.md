@@ -15,7 +15,7 @@ To create a small game with Pygame which should contain the following features:
 
 ## Rich Robot
 
-My game is a retro-style coin collecting game in which the player controls a robot using the arrow keys, and has to collect coins whilst avoiding monsters which increase in number and velocity, and come from more directions, as the game progresses.
+The game is a retro-style coin collecting game in which the player controls a robot using the arrow keys, and has to collect coins whilst avoiding monsters which increase in number and velocity, and come from more directions, as the game progresses.
 
 ## Screenshot
 

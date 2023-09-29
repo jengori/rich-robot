@@ -1,4 +1,4 @@
-# Rich Robot
+# ![Robot image](robot.png) Rich Robot
 
 This a project completed as part of the **[Python Programming MOOC](https://programming-23.mooc.fi/)** run by The University of Helsinki.
 
